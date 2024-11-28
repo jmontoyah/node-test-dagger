@@ -1,6 +1,6 @@
 {
-  "name": "node-test-dagger",
+  "name": "node-test-dagger-go",
   "engineVersion": "v0.14.0",
-  "sdk": "python",
+  "sdk": "go",
   "source": "dagger"
 }
