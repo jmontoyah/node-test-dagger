@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node src/index.js",
     "test": "jest src/index.test.js"
+<<<<<<< HEAD
     
+=======
+>>>>>>> cf2671b56a9c2f2714744af1d13a48d50800d8fa
   },
   "author": "Devenes",
   "license": "MIT",

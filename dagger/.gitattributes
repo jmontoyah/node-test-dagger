@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 /sdk/** linguist-generated
+=======
+/dagger.gen.go linguist-generated
+/internal/dagger/** linguist-generated
+/internal/querybuilder/** linguist-generated
+/internal/telemetry/** linguist-generated
+>>>>>>> cf2671b56a9c2f2714744af1d13a48d50800d8fa

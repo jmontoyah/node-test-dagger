@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "node-test-dagger-python",
   "engineVersion": "v0.14.0",
   "sdk": "python",
+=======
+  "name": "node-test-dagger-go",
+  "engineVersion": "v0.14.0",
+  "sdk": "go",
+>>>>>>> cf2671b56a9c2f2714744af1d13a48d50800d8fa
   "source": "dagger"
 }
